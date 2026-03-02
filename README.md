@@ -7,6 +7,9 @@ This project simulates a real-world hotel chain scenario where management requir
 
 The solution is built using structured data modeling, DAX measures, and hospitality-specific business metrics to enable data-driven decision-making.
 
+_[Live-dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzgyODBlMWMtMTc0ZC00ZWYzLWJkYjItYjZjNTY5MDZlZDI3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+
+
 
 ## 🎯 Business Objectives
 
@@ -61,33 +64,33 @@ The solution is built using structured data modeling, DAX measures, and hospital
 
 ## 📂 Dashboard Views
 
-- **📊 Overview Dashboard:**
+- **📊 Overview Dashboard**
 
- - Total Revenue KPI
-
- - Occupancy %
-
- - ADR (Average Daily Rate)
-
- - RevPAR (Revenue Per Available Room)
-
- - Week-on-Week (WoW) Change %
-
- - City-wise Performance Analysis
-
+  - Total Revenue KPI
+ 
+  - Occupancy %
+ 
+  - ADR (Average Daily Rate)
+ 
+  - RevPAR (Revenue Per Available Room)
+ 
+  - Week-on-Week (WoW) Change %
+ 
+  - City-wise Performance Analysis
+ 
 - **🏨 Performance Analysis**
-
- - DSRN (Daily Sellable Room Nights)
-
- - DBRN (Daily Booked Room Nights)
-
- - DURN (Daily Utilized Room Nights)
-
- - Realisation %
-
- - Booking Platform Analysis
-
- - Trend Analysis by Week
+ 
+  - DSRN (Daily Sellable Room Nights)
+ 
+  - DBRN (Daily Booked Room Nights)
+ 
+  - DURN (Daily Utilized Room Nights)
+ 
+  - Realisation %
+ 
+  - Booking Platform Analysis
+ 
+  - Trend Analysis by Week
 
 ## 📊 Key Metrics Explained
 
