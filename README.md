@@ -140,7 +140,7 @@ _[Live-dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzgyODBlMWMtMTc0ZC00ZWY
 - Occupancy & RevPAR Derived Metrics
   
 
-## 📊 Business Insights
+## 🚀 Business Insights
  
 This dashboard enables hospitality management to Monitor revenue growth trends, Identify underperforming properties, Optimize pricing strategy (ADR analysis), Improve occupancy performance and also Track booking realization efficiency which enables Stakeholders to make data-driven operational decisions.
 
