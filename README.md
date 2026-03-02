@@ -61,7 +61,7 @@ The solution is built using structured data modeling, DAX measures, and hospital
 
 ## 📂 Dashboard Views
 
--  **📊 Overview Dashboard**
+- **📊 Overview Dashboard**
 
  - Total Revenue KPI
 
@@ -88,6 +88,56 @@ The solution is built using structured data modeling, DAX measures, and hospital
  - Booking Platform Analysis
 
  - Trend Analysis by Week
+
+## 📊 Key Metrics Explained
+
+- Revenue – Total booking revenue generated
+
+- Occupancy % – DURN / DSRN
+
+- ADR – Revenue per utilized room
+
+- RevPAR – Revenue per available room
+
+- DSRN – Daily room capacity available for sale
+
+- DBRN – Daily rooms booked
+
+- DURN – Daily rooms actually utilized
+
+- WoW % – Weekly growth comparison of KPIs
+
+
+## 🧠 Key Skills Demonstrated
+
+- Hospitality Domain Analytics
+
+- Data Modeling using Star Schema
+
+- Advanced DAX Measure Creation
+
+- Time Intelligence (WoW Analysis)
+
+- KPI Development
+
+- Business Performance Storytelling
+
+- Capacity & Revenue Optimization Analysis
+
+## 📊 Advanced DAX Highlights
+
+- Week-on-Week (WoW) Change %
+
+- Dynamic Filter Context Handling
+
+- CALCULATE with ALL & FILTER
+
+- Time-Based Trend Analysis
+
+- Occupancy & RevPAR Derived Metrics
+
+
+   
  
 
 
