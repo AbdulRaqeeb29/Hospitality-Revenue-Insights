@@ -59,35 +59,35 @@ The solution is built using structured data modeling, DAX measures, and hospital
   - Scalable analytical structure
  
 
-  ## 📂 Dashboard Views
+## 📂 Dashboard Views
 
- **📊 Overview Dashboard**
+-  **📊 Overview Dashboard**
 
-- Total Revenue KPI
+ - Total Revenue KPI
 
-- Occupancy %
+ - Occupancy %
 
-- ADR (Average Daily Rate)
+ - ADR (Average Daily Rate)
 
-- RevPAR (Revenue Per Available Room)
+ - RevPAR (Revenue Per Available Room)
 
-- Week-on-Week (WoW) Change %
+ - Week-on-Week (WoW) Change %
 
-- City-wise Performance Analysis
+ - City-wise Performance Analysis
 
-**🏨 Performance Analysis**
+- **🏨 Performance Analysis**
 
-- DSRN (Daily Sellable Room Nights)
+ - DSRN (Daily Sellable Room Nights)
 
-- DBRN (Daily Booked Room Nights)
+ - DBRN (Daily Booked Room Nights)
 
-- DURN (Daily Utilized Room Nights)
+ - DURN (Daily Utilized Room Nights)
 
-- Realisation %
+ - Realisation %
 
-- Booking Platform Analysis
+ - Booking Platform Analysis
 
-- Trend Analysis by Week
+ - Trend Analysis by Week
  
 
 
